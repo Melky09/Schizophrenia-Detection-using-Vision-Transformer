@@ -7,6 +7,11 @@ This project uses EEG data. The data is converted into Time-Frequency Representa
 - Poland dataset EEG signals are segmented into **30-second** windows.  
 - Moscow dataset EEG signals are segmented into **15-second** windows.  
 
+## Color Map Used for TFR Images
+
+- **Poland and Kaggle EEG datasets:** Viridis  
+- **Moscow EEG dataset:** YCBCR
+
 ## Jupyter Notebooks Overview
 
 - **Schizophrenia_preprocessing.ipynb**  
